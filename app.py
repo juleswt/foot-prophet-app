@@ -152,5 +152,3 @@ else:
         col2.success(selected_away_team + " wins against " + selected_home_team)
     else:
         col2.write('Draw')
-    
-    col3.write('Other model ?')
